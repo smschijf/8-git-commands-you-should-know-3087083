@@ -61,11 +61,11 @@ html {
   opacity: 1;
 }
 
-.site-header .header-title {
+/* .site-header .header-title {
   animation: clear 0.8s 0.4s forwards;
   transform: translateY(10rem);
   opacity: 0;
-}
+} */
 
 .site-header .header-subtitle {
   animation: clear 1s 0.7s forwards;
